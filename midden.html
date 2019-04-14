@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Geert Schoonbeek</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Geert Schoonbeek, Klankdichter, Componist, Musicus, Pelgrim">
+<meta name="description"/>
+<link rel="stylesheet" type="text/css" href="default.css">
+<SCRIPT LANGUAGE="JavaScript">
+
+var image1 = 0;
+var image2 = 0;
+var image3 = 0;
+
+function checkVisited(index)
+{
+	if ((index == 0 && image1 == 0) || (index == 1 && image2 == 0) || (index ==
+2 && image3 == 0))
+	{
+		return 0;
+	}
+	return 1;
+}
+
+function setVisited(index)
+{
+	if (index == 0)
+	{
+		image1 = 1;
+	}
+	if (index == 1)
+	{
+		image2 = 1;
+	}
+	if (index == 2)
+	{
+		image3 = 1;
+	}
+}
+
+</SCRIPT>
+
+</head>
+  <frameset cols="*,775,*" frameborder="NO" border="0" framespacing="0" rows="*">
+    <frame name="leftFrame" src="left.html" >
+  <frame name="centerFrame"  src="center.html" >
+    <frame name="rightFrame" src="right.html">
+  </frameset>
+<noframes><body bgcolor="#333333">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-732873-4";
+urchinTracker();
+</script>
+</body></noframes>
+</html>

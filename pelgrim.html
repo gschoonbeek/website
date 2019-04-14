@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Pelgrim</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Geert Schoonbeek, Klankdichter, Componist, Musicus, Pelgrim">
+<meta name="description"/>
+<link rel="stylesheet" type="text/css" href="default.css">
+<style type="text/css">
+a.special:link
+{
+	background-image:url(images/geertrechts.gif);
+	display:block;
+	background-repeat: no-repeat;
+	width: 254px;
+	height: 327px;
+}
+
+a.special:visited
+{
+	background-image:url(images/geestrechts.gif);
+	display:block;
+	background-repeat: no-repeat;
+	width: 254px;
+	height: 327px;
+}
+</style>
+<SCRIPT LANGUAGE="JavaScript">
+function setImages()
+{
+	if (parent.parent.checkVisited(2) == 1)
+	{
+		document.images[0].src = "images/geestrechts.gif";
+	} else
+	{
+		document.images[0].src = "images/geertrechts.gif";
+	}
+}
+
+function setVisited()
+{
+	parent.parent.setVisited(2);
+}
+</SCRIPT>
+
+
+</head>
+<body bgcolor="#458B00" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="setImages()">
+<table>
+<tr height=50><td></td></tr>
+</table>
+<a href="pelgrim_tekst.html" target="centerFrame" class="special" onMouseUp="setVisited()"><img src="images/transp.gif" style="display:block;background-repeat:no-repeat;width:254px;height:327px;" border="0" alt="Pelgrim" Title="Pelgrim"></a>
+</body>
+</html>

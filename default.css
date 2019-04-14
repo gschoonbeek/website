@@ -1,0 +1,35 @@
+TD {
+	font-family: Garamond, Times, serif;
+	font-size: 100%;
+}
+
+p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.underlinegrey {
+  text-decoration: underline;
+  color: #333333;
+}
+
+a.underlineblack {
+  text-decoration: underline;
+  color: #101010;
+}
+
+td.contact {
+  font-size: 12px;
+  color: #aa6600;
+  letter-spacing: 2px;
+  padding-top: 5px;
+}
+
