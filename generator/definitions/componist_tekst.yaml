@@ -1,0 +1,30 @@
+items:
+  - year: 2018
+    title: Reprise 'Le Belffroi de Bailleul ~ 15 avril - 31 julliet 1918' en 'IV Oudhollandsche Kerstliederen'
+    content: |
+      21 december door Gijsbert Kok
+      12.30 uur op het carillon van de Grote Kerk in Den Haag
+
+  - title: Belgische première 'Le Belffroi de Bailleul ~ - 15 avril - 31 julliet 1918'
+    content: 11 november om 11.00 uur door Kenneth Theunissen op de beiaard van de Gentse Belfort te Gent
+
+links:
+  - name: Gijsbert Kok
+    target: http://www.gijsbertkok.nl
+
+  - name: Grote Kerk
+    target: http://www.stichtingcarillondenhaag.nl/grote-kerk-carillon/
+
+html: |
+  <tr align="left" valign="top">
+    <td valign="bottom" width=35><b>{{% year %}}</b></td>
+    <td>
+      <p><b>{{% title %}}</b></a></b></p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p>{{% content %}}</p><br>
+    </td>
+  </tr>

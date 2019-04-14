@@ -89,31 +89,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 <br><br><br>
 
-<tr align="left" valign="top">
-  <td valign="bottom" width=35><b>2018</b></td>
-  <td>
-    <p><b>Reprise 'Le Belffroi de Bailleul ~ 15 avril - 31 julliet 1918' en 'IV Oudhollandsche Kerstliederen'</b></a></b></p>
-  </td>
-</tr>
-<tr>
-  <td></td>
-  <td>
-    <p>21 december door <a href="http://www.gijsbertkok.nl" target="_blank"><b>Gijsbert Kok</b></a><br>12.30 uur op het carillon van de <a href="http://www.stichtingcarillondenhaag.nl/grote-kerk-carillon/" target="_blank"><b>Grote Kerk</b></a> in Den Haag<br></p><br>
-  </td>
-</tr>
-<tr align="left" valign="top">
-  <td valign="bottom" width=35><b></b></td>
-  <td>
-    <p><b>Belgische première 'Le Belffroi de Bailleul ~ - 15 avril - 31 julliet 1918'</b></a></b></p>
-  </td>
-</tr>
-<tr>
-  <td></td>
-  <td>
-    <p>11 november om 11.00 uur door Kenneth Theunissen op de beiaard van de Gentse Belfort te Gent</p><br>
-  </td>
-</tr>
-
+{{% content %}}
 
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
