@@ -6,6 +6,8 @@ build:
         name: run tests
         code: |
           apt update && apt install -y git
+          git config --global user.email "job@wercker.com"
+          git config --global user.name "Wercker Job"
           git checkout --track origin/gh-pages && git merge master
           cd generator && dub
           git commit -am 'Generate pages'
