@@ -5,6 +5,7 @@ build:
     - script:
         name: run tests
         code: |
+          apt update && apt install -y git
           git checkout --track origin/gh-pages && git merge master
           cd generator && dub
           git commit -am 'Generate pages'
