@@ -11,4 +11,5 @@ build:
           git checkout --track origin/gh-pages && git merge master
           cd generator && dub
           git commit -am 'Generate pages' || true
-          git push origin gh-pages
+          git remote add upstream https://gschoonbeek:GITHUB_USER_ACCESS@github.com/gschoonbeek/website.git
+          git push upstream gh-pages
