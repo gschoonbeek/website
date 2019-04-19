@@ -10,5 +10,5 @@ build:
           git config --global user.name "Wercker Job"
           git checkout --track origin/gh-pages && git merge master
           cd generator && dub
-          git commit -am 'Generate pages'
+          git commit -am 'Generate pages' || true
           git push origin gh-pages
