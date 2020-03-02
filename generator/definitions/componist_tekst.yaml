@@ -1,14 +1,90 @@
 items:
-  - year: 2018
-    title: Reprise 'Le Belffroi de Bailleul ~ 15 avril - 31 julliet 1918' en 'IV Oudhollandsche Kerstliederen'
-    content: |
-      21 december door Gijsbert Kok
-      12.30 uur op het carillon van de Grote Kerk in Den Haag
+  2020:
+    - title:
+        nl: Wereldpremière - Reprise 'Isolatie - Insulation'
+        en: World première and Reprise 'Isolatie - Insulation'
+      content:
+        nl: |
+          5 maart door Bob van der Ent
+          16.00 en 17.00 uur tijdens de boekpresentatie van 'Haiku for a Winterday' in Arti et Amicitiae
+          te Amsterdam
+        en: |
+          March 5th by Bob van der Ent
+          4.00 and 5.00 p.m. during thee book presentation of 'Haiku for a Winterday' in Arti et Amicitiae
+          in Amsterdam
 
-  - title: Belgische première 'Le Belffroi de Bailleul ~ - 15 avril - 31 julliet 1918'
-    content: 11 november om 11.00 uur door Kenneth Theunissen op de beiaard van de Gentse Belfort te Gent
+    - title:
+        nl: |
+          'Isolatie - Insulation' voor viool solo
+        en: |
+          'Isolatie - Insulation' for solo violin
+      content:
+        nl: |
+          is speciaal gecomponeerd voor het boek 'Haiku for a Winterday' van Daniëlle van Hilten
+          voltooid 21 februari
+        en: |
+          is specially composed for the book 'Haiku for a Winterday' by Daniëlle van Hilten
+          finished February 21st
+
+  2019:
+    - title:
+        nl: Reprise IV Oudhollansche Kerstliederen
+        en: Reprise IV Old dutch Carols
+      content:
+        nl: |
+          21 december door Rien Donkersloot
+          12.30 u. bespeling van de beiaard van de St. Bavo te Haarlem
+        en: |
+          December 21st by Rien Donkersloot
+          12.30 u. concert on the St. Bavo carillon in Haarlem
+
+    - title:
+        nl: Reprise Luke 23:46a voor beiaard
+        en: Reprise Luke 23:46a for carillon
+      content:
+        nl: |
+          3 augustus door Wim Ruitenbeek
+          20.00 u. Zomeravondconcert van de Nijkerkse Klokkenspelvereniging
+        en: |
+          August 3rd by Wim Ruitenbeek
+          8.00 p.m. Summer evening concert by the Nijkerkse Carillon Society 
+
+  2018:
+    - title:
+        nl: Reprise 'Le Belffroi de Bailleul ~ 15 avril - 31 julliet 1918' en 'IV Oudhollandsche Kerstliederen'
+        en: Reprise 'The Bailleul Belfort ~ April 15th - July 31st 1918' and 'IV Old Dutch Christmas Carls'
+      content:
+        nl: |
+          21 december door Gijsbert Kok
+          12.30 uur op het carillon van de Grote Kerk in Den Haag
+        en: |
+          December 21st by Gijsbert Kok
+          12.30 p.m. on the carillon of de Grote Kerk in The Hague
+
+    - title:
+        nl: Belgische première 'Le Belffroi de Bailleul ~ - 15 avril - 31 julliet 1918'
+        en: Belgium premère 'The Bailleul Belfort ~ April 14th - July 31st'
+      content:
+        nl: 11 november om 11.00 uur door Kenneth Theunissen op de beiaard van de Gentse Belfort te Gent
+        en: November 11st 11.00 a.m. by Kenneth Theunissen on the carillon of the Gent Belfort in Gent
 
 links:
+  - name: Bob van der Ent
+    target:
+      nl: https://www.bobvanderent.nl
+      en: https://www.bobvanderent.nl/en
+
+  - name: Arti et Amicitiae
+    target: https://www.arti.nl
+    
+  - name: Nijkerkse Klokkenspelvereniging
+    target: https://www.nijkerkseklokkenspelvereniging.nl
+
+  - name: Daniëlle van Hilten
+    target:
+      nl: www.daniellevanhilten.nl
+      en: www.daniellevanhilten.nl/english.html
+
   - name: Gijsbert Kok
     target: http://www.gijsbertkok.nl
 
@@ -17,7 +93,7 @@ links:
 
 html: |
   <tr align="left" valign="top">
-    <td valign="bottom" width=35><b>{{% year %}}</b></td>
+    <td valign="top" width=35><b>{{% year %}}</b></td>
     <td>
       <p><b>{{% title %}}</b></a></b></p>
     </td>

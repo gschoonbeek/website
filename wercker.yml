@@ -10,5 +10,6 @@ build:
           git config --global user.name "Wercker Job"
           git checkout --track origin/gh-pages && git merge master
           cd generator && dub
-          git commit -am 'Generate pages'
-          git push origin gh-pages
+          git commit -am 'Generate pages' || true
+          git remote add upstream https://gschoonbeek:$GITHUB_USER_ACCESS@github.com/gschoonbeek/website.git
+          git push upstream gh-pages

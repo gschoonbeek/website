@@ -10,64 +10,13 @@ import std.meta;
 import std.file;
 import std.format;
 
-struct Item {
-  string title;
-  string content;
-  string year;
-}
-
-struct Definition {
-  Item[] items;
-  Link[] links;
-  string html;
-}
-
-struct Link {
-  string name;
-  string target;
-}
-
-auto replaceLinks(Item[] items, Link[] links) {
-  foreach(link; links) {
-    auto href = format("<a href=\"%s\" target=\"_blank\"><b>%s</b></a>", link.target, link.name);
-    foreach(ref item; items) {
-      item.content = item.content.replace(link.name, href);
-    }
-  }
-  return items;
-}
-
-auto replaceNewLines(Item[] items) {
-  foreach(ref item; items)
-    item.content = item.content.replace("\n","<br>");
-}
-
-auto decode(T)(ref Node node) {
-  static if (is(T : Item[], Item)) {
-    auto app = appender!(Item[]);
-    foreach(Node i; node)
-      app.put(i.decode!Item);
-    return app.data;
-  } else {
-    T t;
-    static foreach(idx, field; T.tupleof) {{
-        enum string key = __traits(identifier, field);
-        static if (!is(typeof(field) : string) && is(typeof(field) : A[], A)) {
-          auto app = appender!(A[]);
-          foreach(Node i; node[key])
-            app.put(i.decode!A);
-          t.tupleof[idx] = app.data;
-        } else
-          if (node.containsKey(key))
-            t.tupleof[idx] = node[key].as!(typeof(field));
-      }}
-    return t;
-  }
-}
+import definition;
+import ir;
 
 auto interpolate(T)(string html, auto ref T t) if (!is(T : string)){
   auto interpolator(Captures!(string) m) {
     string key = m[1].strip;
+    pragma(msg, T);
     static foreach(field; __traits(allMembers, T)) {{
         alias sym = AliasSeq!(__traits(getMember, T, field))[0];
         if (field == key) {
@@ -87,17 +36,17 @@ auto interpolate(string html, string content) {
   return html.replaceAll(regex("\\{\\{%([^%]+)%\\}\\}"), content);
 }
 
-auto render(ref Definition def) {
+auto render(ref Record[] records, string html) {
   auto app = appender!(string);
-  foreach(item; def.items) {
-    app.put(def.html.interpolate(item));
+  foreach(record; records) {
+    app.put(html.interpolate(record));
   }
   return app.data;
 }
 void main()
 {
-  auto node = Loader.fromFile("definitions/componist_tekst.yaml").load;
-  auto def = node.decode!Definition;
-  def.items.replaceLinks(def.links).replaceNewLines();
-  std.file.write("../componist_tekst.html", readText("../componist_tekst.html.template").interpolate(def.render()));
+  auto defs = loadDefinitions("definitions/componist_tekst.yaml");
+  auto items = defs.toIr();
+  std.file.write("../componist_tekst.html", readText("../componist_tekst.html.template").interpolate(render(items.nl, items.html)));
+  std.file.write("../componist_tekst_en.html", readText("../componist_tekst_en.html.template").interpolate(render(items.en, items.html)));
 }
