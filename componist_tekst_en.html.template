@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>The Composer</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="keywords" content="Geert Schoonbeek, Klankdichter, Componist, Musicus, Pelgrim"/>
 <meta name="description"/>
 <link href="default.css" rel="stylesheet" type="text/css"/>
@@ -85,32 +85,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <br><br>
 
 
-<tr align="left" valign="top">
-	<td valign="bottom" width=35><b>2018</b></td>
-	<td>
-<p><B>Reprise 'The Bailleul Belfort ~ April 15th - July 31st 1918' and 'IV Old Dutch Christmas Carls'</b></a>
-</B></p>
-	</td></tr>
-	<tr><td></td><td>
-		<p>December 21st by <a href="http://www.gijsbertkok.nl" target="_blank"><b>Gijsbert Kok</b></a><br>
-12.30 p.m. on the carillon of de <a href="http://www.stichtingcarillondenhaag.nl/grote-kerk-carillon/" target="_blank"><b>Grote Kerk</b></a> in The Hague</p><br>
-	</td></tr>
-
+{{% content %}}
 
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>Belgium premère 'The Bailleul Belfort ~ April 14th - July 31st'</b></a>
-</B></p>
-	</td></tr>
-	<tr><td></td><td>
-		<p>November 11st 11.00 a.m. by Kenneth Theunissen on the carillon of the Gent Belfort in Gent</p><br>
-	</td></tr>
-
-<tr align="left" valign="top">
-	<td valign="bottom" width=35><b></b></td>
-	<td>
-<p><B>World premère 'The Bailleul Belfort ~ April 14th - July 31st'</b></a>
+<p><B>World premÃ¨re 'The Bailleul Belfort ~ April 14th - July 31st'</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -131,7 +111,7 @@ finished May 23rd published by <A href="https://webshop.donemus.nl/action/front/
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>Reprise Molpe- syrène variations</b></a>
+<p><B>Reprise Molpe- syrÃ¨ne variations</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -160,7 +140,7 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>Première Molpe - syrène variations'</b></a>
+<p><B>PremiÃ¨re Molpe - syrÃ¨ne variations'</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -210,7 +190,7 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>Première and reprise 'Credo'</b></a>
+<p><B>PremiÃ¨re and reprise 'Credo'</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -262,7 +242,7 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>'Molpe - syrène variations'</b></a>
+<p><B>'Molpe - syrÃ¨ne variations'</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -295,7 +275,7 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b></b></td>
 	<td>
-<p><B>Worldpremière 'Der Narr Epilogiert'</a>
+<p><B>WorldpremiÃ¨re 'Der Narr Epilogiert'</a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -309,7 +289,7 @@ December 28th Grote Church in The Hague </p><br>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
-		<p>by the <a href="http://www.syrenesaxofoonkwartet.nl" target="_blank"><b>Syrène Saxophone Quartet</b></a><br>
+		<p>by the <a href="http://www.syrenesaxofoonkwartet.nl" target="_blank"><b>SyrÃ¨ne Saxophone Quartet</b></a><br>
 		November 15th 8.00 p.m <a href="http://www.muziekkringenkhuizen.nl" target="_blank"><b>Nutszaal</b></a> in Enkhuizen<br>
 		November 23rd 3.30 p.m <a href="http://www.dekroonconcerten.nl" target="_blank"><b>Hippolytuskerk</b></a> in Hippolytushoef
 		</p><br>
@@ -318,11 +298,11 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière 'Haan' in the version for cello and piano
+<p><B>WorldpremiÃ¨re 'Haan' in the version for cello and piano
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
-		<p>October 18th 8.30 p.m, by <a href="http://www.larissagroeneveld.com" target="_blank"><b>Larissa Groeneveld</b></a> - cello and Frank van de Laar - piano<br>in the Ruïnekerk in Bergen (NH)</p><br>
+		<p>October 18th 8.30 p.m, by <a href="http://www.larissagroeneveld.com" target="_blank"><b>Larissa Groeneveld</b></a> - cello and Frank van de Laar - piano<br>in the RuÃ¯nekerk in Bergen (NH)</p><br>
 	</td></tr>
 
 <tr align="left" valign="top">
@@ -338,7 +318,7 @@ December 28th Grote Church in The Hague </p><br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Première 'Kyrië'</b></a>
+<p><B>PremiÃ¨re 'KyriÃ«'</b></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -355,13 +335,13 @@ December 28th Grote Church in The Hague </p><br>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
-		<p>January 18th until February 8th, Rokin 112 in Amsterdam with the extraordinary score of 	L'Entrada Palau Güell (2010)</p><br>
+		<p>January 18th until February 8th, Rokin 112 in Amsterdam with the extraordinary score of 	L'Entrada Palau GÃ¼ell (2010)</p><br>
 	</td></tr>
 
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b>2013</b></td>
 	<td>
-<p><B>Première 'IV Old Dutch Christmas Carols'
+<p><B>PremiÃ¨re 'IV Old Dutch Christmas Carols'
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -418,13 +398,13 @@ in the Headquarters of the Amsterdam Police force, Lijnbaansgracht in Amsterdam.
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Première 'De Bazuin' [The Trumpet]
+<p><B>PremiÃ¨re 'De Bazuin' [The Trumpet]
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
 
 		<p>May 24th 8.30 p.m. by <a href="www.femkeijlstra.com" target="_blank"><b>Femke IJlstra</b></a> - soprano  
-		saxophone and <a href="http://www.evavangrinsven.nl" target="_blank"><b>Eva van Grinsven</b></a> - bariton saxophone in the Bethaniënklooster in Amsterdam.<br>
+		saxophone and <a href="http://www.evavangrinsven.nl" target="_blank"><b>Eva van Grinsven</b></a> - bariton saxophone in the BethaniÃ«nklooster in Amsterdam.<br>
 		This piece was especially written for: Femke IJlstra for the collection <a href="http://www.afuk.nl" target="_blank"><b>Vacuum-cleaner-singers</b></a> together with the poet <a href="http://www.tseadbruinja.nl/" target="_blank"><b>Tsead Bruinja</b></a> and the artist <a href="http://www.mirkafarabegoli.com" target="_blank"><b>Mirka Farabegoli</b></a></p><br>
 	</td></tr>
 
@@ -472,7 +452,7 @@ especially written for the alto <a href="http://www.cjstoppelenburg.nl" target="
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b>2012 </b></td>
 	<td>
-<p><B>Première 'The Century Resonates Now'
+<p><B>PremiÃ¨re 'The Century Resonates Now'
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -509,9 +489,9 @@ Oktober 4th   7.45 p.m. Louis Hartlooper Complex in Utrecht<br>
 
 		<p>
 
-		during the <a href="http://www.neckar-musikfestival.de/" target="_blank"><b>Neckar Musikfestival</b></a> in the serie 'Die andere Modernen' by <a href="http://www.martin-muench.de/" target="_blank"><b>Martin Münch</b></a><br>
+		during the <a href="http://www.neckar-musikfestival.de/" target="_blank"><b>Neckar Musikfestival</b></a> in the serie 'Die andere Modernen' by <a href="http://www.martin-muench.de/" target="_blank"><b>Martin MÃ¼nch</b></a><br>
 		September 23rd 5.00 p.m. <a href="http://www.galeriemelnikow-heidelberg.de" target="_blank"><B>Galery Melnikow</b></a> in Heidelberg, Duitsland.<br>
-		September 24th 8.00 p.m. <a href="http://www.mannheim.de/bildung-staerken/musikschule" target="_blank"><b>Städtische Musikschulle</b></a> in Mannheim, Duitsland
+		September 24th 8.00 p.m. <a href="http://www.mannheim.de/bildung-staerken/musikschule" target="_blank"><b>StÃ¤dtische Musikschulle</b></a> in Mannheim, Duitsland
 
 		</p><br>
 	</td></tr>
@@ -524,7 +504,7 @@ Oktober 4th   7.45 p.m. Louis Hartlooper Complex in Utrecht<br>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Première 'Storms in the new land'
+<p><B>PremiÃ¨re 'Storms in the new land'
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -573,12 +553,12 @@ May 28th the whole day on <a href="http://www.omroepflevoland.nl" target="_blank
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière 'The Righteous'
+<p><B>WorldpremiÃ¨re 'The Righteous'
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
 
-		<p>January 16 th 8.15 p.m. by <a href="http://www.eleonorepameijer.com/" target="_blank"><b>Eleonore Pameijer</b></a>  - [bass]flute and <a href="http://www.stephanheber.com/"  target="_blank"><b>Stephan Heber</b></a> - cello <br>in the <a href="http://www.leosmit.nl/uilenburgerconcerten.php" target="_blank"><B>Uilenburger concert series</b></a>in the <a href="http://www.bethanienklooster.nl/" target="_blank"><b>Bethaniënklooster</b></a> in Amsterdam<br>
+		<p>January 16 th 8.15 p.m. by <a href="http://www.eleonorepameijer.com/" target="_blank"><b>Eleonore Pameijer</b></a>  - [bass]flute and <a href="http://www.stephanheber.com/"  target="_blank"><b>Stephan Heber</b></a> - cello <br>in the <a href="http://www.leosmit.nl/uilenburgerconcerten.php" target="_blank"><B>Uilenburger concert series</b></a>in the <a href="http://www.bethanienklooster.nl/" target="_blank"><b>BethaniÃ«nklooster</b></a> in Amsterdam<br>
 		</p><br>
 	</td></tr>
 
@@ -605,7 +585,7 @@ finished the 29th of November, is published by <A href="https://webshop.donemus.
 	</td></tr>
 	<tr><td></td><td>
 
-		<p>November 27 th 3.30 p.m. by  <A href="http://www.martin-muench.de/" target="_blank"><b>Martin Münch </b></a> in the <a href="http://www.dekroonconcerten.nl/" target="_blank"><B>Hippolytuskerk </b></a>in Hippolytushoef
+		<p>November 27 th 3.30 p.m. by  <A href="http://www.martin-muench.de/" target="_blank"><b>Martin MÃ¼nch </b></a> in the <a href="http://www.dekroonconcerten.nl/" target="_blank"><B>Hippolytuskerk </b></a>in Hippolytushoef
 		</p><br>
 	</td></tr>
 
@@ -654,7 +634,7 @@ finished the 29th of November, is published by <A href="https://webshop.donemus.
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Performances 'La Démarcation
+<p><B>Performances 'La DÃ©marcation
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -687,7 +667,7 @@ The &nbsp;&nbsp;6th of November 3.30 p.m. during the <a href="http://www.kamermu
 	</td></tr>
 	<tr><td></td><td>
 
-		<p>The 16th of September 10.00 p.m by <a href="http://www.marcelworms.com/programs/toelichting-en1-blues.html" target="_blank"><b>Marcel Worms</b></a> - piano during the <a href="http://www.leosmit.nl/leosmitfoundation.php" target="_blank"><b>Dutch Chambemusic Festival</b></a> in the <a href="http://bethanienklooster.nl/english/index.html" target="_blank"><b>Bethaniënklooster</b></a> in Amsterdam<br>
+		<p>The 16th of September 10.00 p.m by <a href="http://www.marcelworms.com/programs/toelichting-en1-blues.html" target="_blank"><b>Marcel Worms</b></a> - piano during the <a href="http://www.leosmit.nl/leosmitfoundation.php" target="_blank"><b>Dutch Chambemusic Festival</b></a> in the <a href="http://bethanienklooster.nl/english/index.html" target="_blank"><b>BethaniÃ«nklooster</b></a> in Amsterdam<br>
 		+ presentation: cd 'Made in Holland' and Bluesbook III in which 'Wad in Blaaeuwes' is included<br><br></p>
 	</td></tr>
 
@@ -744,7 +724,7 @@ The &nbsp;&nbsp;6th of November 3.30 p.m. during the <a href="http://www.kamermu
 		<p>
 
 		1st and 2nd of April together with Alex Manassen and Dirk Dekker. In collaboration with <a href="http://www.it-nije-ensemble.info" target="_blank"><B>It Nije Ensemble</b></a> conducted by Hoite Pruiksma and mezzo-soprano <a href="http://home.tiscali.nl/janniepranger/" target="_blank"><b>Jannie Pranger</b></a><br>
-		3th of April presentation of the works of the participating composers and a try out 'La Démarcation' for piano lefthand, flute, bass-clarinet, violin, viola and cello & 'Hymns' for brass-quintet and mezzo-soprano.<br>
+		3th of April presentation of the works of the participating composers and a try out 'La DÃ©marcation' for piano lefthand, flute, bass-clarinet, violin, viola and cello & 'Hymns' for brass-quintet and mezzo-soprano.<br>
 		<a href="http://kerkelijkekunst.workum.nl/Beschrijving" target="_blank"><b>R.K. Werenfrieduskerk,</b></a> starts: 3.00 p.m. <br>
 		<a href="http://www.klameare.nl/" target="_blank"><b>De Klameare</b></a>, starts: 5.00 p.m.<br><br>
 
@@ -780,7 +760,7 @@ The &nbsp;&nbsp;6th of November 3.30 p.m. during the <a href="http://www.kamermu
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière 'Schokland' </b>
+<p><B>WorldpremiÃ¨re 'Schokland' </b>
 </p>
 	</td></tr>
 	<tr><td></td><td>
@@ -793,7 +773,7 @@ The 16th of january 3.00 p.m. by <a href="http://www.ramonlormans.nl" target="_b
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière 'Haan' </b>in the version for violin and piano
+<p><B>WorldpremiÃ¨re 'Haan' </b>in the version for violin and piano
 </p>
 	</td></tr>
 	<tr><td></td><td>
@@ -812,7 +792,7 @@ The 16th of january 3.00 p.m. by Ursula Schoch - violin and <a href="http://www.
 	</td></tr>
 	<tr><td></td><td>
 <p>
-The 17th of january 8.15 p.m. in the <a href="http://www.bethanienklooster.nl/english/index.html" target="_blank"><b>Bethaniënklooster</b><a> in Amsterdam <Br>in the <a href="http://www.leosmit.nl/#boven" target="_blank"><b>Uilenburgerconcertserie</b></a>
+The 17th of january 8.15 p.m. in the <a href="http://www.bethanienklooster.nl/english/index.html" target="_blank"><b>BethaniÃ«nklooster</b><a> in Amsterdam <Br>in the <a href="http://www.leosmit.nl/#boven" target="_blank"><b>Uilenburgerconcertserie</b></a>
 </p><br>
 </td></tr>
 
@@ -842,7 +822,7 @@ The 17th of january 8.15 p.m. in the <a href="http://www.bethanienklooster.nl/en
 	<tr><td></td><td>
 
 		<p>November 21th 8.15 p.m. by <a href="http://www.marcelworms.com/programs/toelichting-en1-blues.html" target="_blank"><b>Marcel Worms</b></a><br>
-		in the <a href="http://www.bethanienklooster.nl/english/index.html" target="_blank"><b>Bethaniënklooster</b></a> in Amsterdam<Br><br></p>
+		in the <a href="http://www.bethanienklooster.nl/english/index.html" target="_blank"><b>BethaniÃ«nklooster</b></a> in Amsterdam<Br><br></p>
 	</td></tr>
 
 
@@ -852,7 +832,7 @@ The 17th of january 8.15 p.m. in the <a href="http://www.bethanienklooster.nl/en
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>'La Démarcation'</b> for piano lefthand, flute, bass-clarinet, violin. viola and cello <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Scores"></a>
+<p><B>'La DÃ©marcation'</b> for piano lefthand, flute, bass-clarinet, violin. viola and cello <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Scores"></a>
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -869,7 +849,7 @@ The 17th of january 8.15 p.m. in the <a href="http://www.bethanienklooster.nl/en
 	</td></tr>
 	<tr><td></td><td>
 
-		<p>November 7th 2.30 p.m. the Flora quartet: <a href="http://www.birtheblom.com" target="_blank"><B>Birthe Blom</b></a> - violin, <a href="http://www.edgarpujol.net" target="_blank"><b>Edgar Pujol</b></a> - violin, Joël Waterman - viola en Florian Rohn - cello en
+		<p>November 7th 2.30 p.m. the Flora quartet: <a href="http://www.birtheblom.com" target="_blank"><B>Birthe Blom</b></a> - violin, <a href="http://www.edgarpujol.net" target="_blank"><b>Edgar Pujol</b></a> - violin, JoÃ«l Waterman - viola en Florian Rohn - cello en
 moving theather Ti Na Ni Na Ni <br>under the direction of Ari Peterse
 in the Oosterkerk, Hoorn<br><br></p>
 	</td></tr>
@@ -879,7 +859,7 @@ in the Oosterkerk, Hoorn<br><br></p>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière 'Luke 23: 46a' for carillon
+<p><B>WorldpremiÃ¨re 'Luke 23: 46a' for carillon
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -907,7 +887,7 @@ in the Oosterkerk, Hoorn<br><br></p>
 <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Dutch première 'Wad in Blaaeuwes'
+<p><B>Dutch premiÃ¨re 'Wad in Blaaeuwes'
 </B></p>
 	</td></tr>
 	<tr><td></td><td>
@@ -919,9 +899,9 @@ in the Oosterkerk, Hoorn<br><br></p>
 		<i>"A special part of the program was the composition 'Haan' from 2004 by Geert Schoonbeek de Vlaming. This piece is dedicated to all children in oppression worldwide. Seven parts. Expressive themes, brilliantly worked out. Very interesting and enchanting music. Beautifully played."<Br><br>
 		[ Henk Pruijsen, Wieringer Courant 02-04-10 ]</i><br><br>
 
-<p><b>'L'Entrada Palau Güell' [extended version] for brass-septet and strings <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"><br></b>
+<p><b>'L'Entrada Palau GÃ¼ell' [extended version] for brass-septet and strings <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"><br></b>
 finished the 9th of March<Br>
-This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idioma=Eng" target="_blank"><b>Palau Güell</b></a> by Antoni Gaudi in music</p><br>
+This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idioma=Eng" target="_blank"><b>Palau GÃ¼ell</b></a> by Antoni Gaudi in music</p><br>
 
 	</td></tr>
 
@@ -955,7 +935,7 @@ This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idi
  <tr align="left" valign="top">
 	<td valign="bottom" width=35><b> </b></td>
 	<td>
-<p><B>Worldpremière String quartet no. 1 'Paradisum'&nbsp;<img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"></B></p>
+<p><B>WorldpremiÃ¨re String quartet no. 1 'Paradisum'&nbsp;<img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"></B></p>
 	</td></tr>
 	<tr><td></td><td>
 
@@ -983,17 +963,17 @@ This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idi
 			<p><b>Reprise on the 25th of May</b> </p>
 		</td></tr>
 		<tr><td></td><td>
-		'Wad in Blaaeuwes' by <a href="http://www.marcelworms.com/programs/toelichting1-blues.html" target="_blank"><b>Marcel Worms</b></a> at the Peçi Music Festival in Tirana Albania<br><br>
+		'Wad in Blaaeuwes' by <a href="http://www.marcelworms.com/programs/toelichting1-blues.html" target="_blank"><b>Marcel Worms</b></a> at the PeÃ§i Music Festival in Tirana Albania<br><br>
 		</td></tr>
 	</td></tr>
 
  <tr align="left" valign="top">
 	<td valign="bottom"width=35><b> </b></td>
 	<td>
-			<p><b>Worldpremière on the 23th of May</b> </p>
+			<p><b>WorldpremiÃ¨re on the 23th of May</b> </p>
 		</td></tr>
 		<tr><td></td><td>
-		'Wad in Blaaeuwes' by <a href="http://www.marcelworms.com/programs/toelichting-en1-blues.html" target="_blank"><b>Marcel Worms</b></a> at the <a href="http://remusicafestival.com" target="_blank"><b>REmusica Festival</b></a> in Priština Kosovo<BR>
+		'Wad in Blaaeuwes' by <a href="http://www.marcelworms.com/programs/toelichting-en1-blues.html" target="_blank"><b>Marcel Worms</b></a> at the <a href="http://remusicafestival.com" target="_blank"><b>REmusica Festival</b></a> in PriÅ¡tina Kosovo<BR>
 		Opening: 7:30 p.m.<br><br>
 		</td></tr>
 	</td></tr>
@@ -1029,11 +1009,11 @@ This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idi
  <tr align="left" valign="top">
 	<td valign="bottom"><b> </b></td>
 	<td>
-			<p><b>‘L’Entrada Palau Güell’ for Brass-septet <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"></b> </p>
+			<p><b>â€˜Lâ€™Entrada Palau GÃ¼ellâ€™ for Brass-septet <img onmouseover="this.style.cursor='hand';" onclick="MM_openBrWindow('partituren_en.html','','width=750,height=380,scrollbars=yes,resizable=no');" class="textimg" src="images/part-icoon.gif" width="20" height="20" border="0" vspace="0" hspace="4" alt="Partituren"></b> </p>
 		</td></tr>
 		<tr><td></td><td>
 			finished the 15 th of May<br>
-			This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idioma=Eng" target="_blank"><b>Palau Güell</b></a> by Antoni Gaudi in music.
+			This piece is the <a href="http://www.palauguell.cat/fitxa.php?idm=12&idsm=0&idioma=Eng" target="_blank"><b>Palau GÃ¼ell</b></a> by Antoni Gaudi in music.
 		</td></tr>
 	</td></tr>
 
