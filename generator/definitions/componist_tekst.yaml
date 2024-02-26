@@ -82,8 +82,8 @@ links:
 
   - name: Daniëlle van Hilten
     target:
-      nl: www.daniellevanhilten.nl
-      en: www.daniellevanhilten.nl/english.html
+      nl: https://www.daniellevanhilten.nl
+      en: https://www.daniellevanhilten.nl
 
   - name: Gijsbert Kok
     target: http://www.gijsbertkok.nl
